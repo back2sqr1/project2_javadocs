@@ -1,0 +1,5 @@
+shop.pos
+shop.pos.dao
+shop.pos.model
+shop.pos.service
+shop.pos.ui
