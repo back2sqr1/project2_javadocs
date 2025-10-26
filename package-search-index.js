@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"shop.pos"},{"l":"shop.pos.dao"},{"l":"shop.pos.model"},{"l":"shop.pos.service"},{"l":"shop.pos.ui"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"shop.pos"},{"l":"shop.pos.dao"},{"l":"shop.pos.ui"}];updateSearchResults();
